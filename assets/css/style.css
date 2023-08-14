@@ -1652,3 +1652,16 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
+.slider1{
+  background-image: url("../../assets/img/slide/slide-1.jpg") !important;
+}
+.slider2{
+  background-image: url("../../assets/img/slide/slide-2.jpg") !important;
+}
+.slider3{
+   background-image: url("../../assets/img/slide/slide-3.jpg") !important;
+ }
+.onama-img{
+  background-image: url("../../assets/img/onama.jpg");
+}
