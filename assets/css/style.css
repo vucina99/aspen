@@ -1655,13 +1655,67 @@ section {
 
 .slider1{
   background-image: url("../../assets/img/slide/slide-1.jpg") !important;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .slider2{
   background-image: url("../../assets/img/slide/slide-2.jpg") !important;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 .slider3{
    background-image: url("../../assets/img/slide/slide-3.jpg") !important;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
  }
+.slider4{
+  background-image: url("../../assets/img/slide/slide-4.jpg") !important;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.slider5{
+  background-image: url("../../assets/img/slide/slide-5.jpg") !important;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.slider6{
+  background-image: url("../../assets/img/slide/slide-6.jpg") !important;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
 .onama-img{
   background-image: url("../../assets/img/onama.jpg");
+}
+
+
+#osiguranja{
+  background: #cc0000;
+  color: #fff;
+}
+.kategorija{
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.podkatergorija{
+  font-size: 13px;
+}
+
+.section-title-light h2::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+  background: #ffffff;
+  bottom: 0;
+  left: calc(50% - 25px);
 }
