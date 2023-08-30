@@ -1655,39 +1655,27 @@ section {
 
 .slider1{
   background-image: url("../../assets/img/slide/slide-1.jpg") !important;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+
 }
 .slider2{
   background-image: url("../../assets/img/slide/slide-2.jpg") !important;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+
 }
 .slider3{
    background-image: url("../../assets/img/slide/slide-3.jpg") !important;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+
  }
 .slider4{
   background-image: url("../../assets/img/slide/slide-4.jpg") !important;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+
 }
 .slider5{
   background-image: url("../../assets/img/slide/slide-5.jpg") !important;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+
 }
 .slider6{
   background-image: url("../../assets/img/slide/slide-6.jpg") !important;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+
 }
 .onama-img{
   background-image: url("../../assets/img/onama.jpg");
